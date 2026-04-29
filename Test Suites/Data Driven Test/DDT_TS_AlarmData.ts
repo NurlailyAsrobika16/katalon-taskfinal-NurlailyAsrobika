@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT_TS_AlarmData</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>4dfdf373-5376-4827-b495-98244182ea6d</testSuiteGuid>
+   <testCaseLink>
+      <guid>ab946d45-cff7-4fa2-be5f-9880cb613160</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenario/TC_AlarmSholatSubuh</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8e0ff058-9d01-4ce8-8a5c-bee31731606a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data/AlarmData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8e0ff058-9d01-4ce8-8a5c-bee31731606a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>taskTitle</value>
+         <variableId>bc439316-a68c-46dc-911f-463e23007bff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8e0ff058-9d01-4ce8-8a5c-bee31731606a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>taskDone</value>
+         <variableId>7a53e25c-3c63-4896-bcbc-f7a027787788</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8e0ff058-9d01-4ce8-8a5c-bee31731606a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>category</value>
+         <variableId>d72535ab-e7f3-4749-b2af-1a8f8e32d7dd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

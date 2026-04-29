@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EmptyField</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69eea1cc-420f-443b-9518-4e99779a47b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9aecc4c-ee64-4f22-a4e1-e1e16dd758da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Meeting client'</defaultValue>
+      <description></description>
+      <id>c9aecc4c-ee64-4f22-a4e1-e1e16dd758da</id>
+      <masked>false</masked>
+      <name>taskDone</name>
+   </variable>
+</TestCaseEntity>
