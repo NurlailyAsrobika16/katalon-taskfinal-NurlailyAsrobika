@@ -83,8 +83,8 @@ Menggunakan **DDT_TS_AlarmData** dengan data file **AlarmData** yang berisi 3 va
 | No | taskTitle | taskDone | category |
 |----|-----------|----------|----------|
 | 1  | Alarm Sholat Subuh | Berhasil Bangun | Personal |
-| 2  | (data 2) | (data 2) | (data 2) |
-| 3  | (data 3) | (data 3) | (data 3) |
+| 2  | Meeting Client | Presentasi proposal ke client | Business |
+| 3  | Belajar Katalon | Menyelesaikan modul automation testing | Personal |
 
 ---
 
